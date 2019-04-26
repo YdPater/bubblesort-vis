@@ -1,5 +1,5 @@
-# bubblesort-vis
-Bubblesort visualisation in Javascript. 
+# Bubblesort vis
+Bubblesort visualisation in Javascript made with the P5 js library.
 
 # Small disclaimer
 I use the loop of the P5 draw function to visualise the "movements" of the algorithm. Because of this,
